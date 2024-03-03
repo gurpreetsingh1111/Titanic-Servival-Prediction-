@@ -1,6 +1,6 @@
 
 # Title: Titanic Survival Prediction
-
+# https://www.kaggle.com/code/bunny11/titanic-servival-prediction-by-gurpreetsingh
 # Description:
 
 The Titanic Survival Prediction project is a classic machine learning project that aims to predict whether a passenger on the Titanic survived or not based on various features such as passenger class, age, sex, fare, and more. The sinking of the RMS Titanic is one of the most infamous shipwrecks in history, resulting in the loss of many lives. This project utilizes machine learning algorithms to analyze the Titanic dataset and build predictive models to determine factors that contributed to passenger survival.
